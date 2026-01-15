@@ -1,0 +1,22 @@
+# env
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# data and logs
+data/
+logs/
+models/
+*.log
+*.jsonl
+
+# misc
+*.json
+!requirements.txt
+.vscode/
+.idea/
